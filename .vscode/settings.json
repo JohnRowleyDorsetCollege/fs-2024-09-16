@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "html.autoClosingTags": false,
+    "editor.matchBrackets": "never",
+    "editor.hover.enabled": false
+}
